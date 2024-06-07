@@ -1,0 +1,8 @@
+.skills>:nth-child(3n+1){
+    background-color: #f05252;
+    color: white;
+}
+.skills>:nth-child(3n){
+    background-color: #f05252;
+    color: white;
+}
